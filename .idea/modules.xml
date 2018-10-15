@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Learning_pyCity/.idea/Learning_pyCity.iml" filepath="$PROJECT_DIR$/../Learning_pyCity/.idea/Learning_pyCity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Work.iml" filepath="$PROJECT_DIR$/.idea/Work.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pyCity/.idea/pyCity.iml" filepath="$PROJECT_DIR$/../pyCity/.idea/pyCity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../richardsonpy/.idea/richardsonpy.iml" filepath="$PROJECT_DIR$/../richardsonpy/.idea/richardsonpy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../simulation_v2/.idea/simulation_v2.iml" filepath="$PROJECT_DIR$/../simulation_v2/.idea/simulation_v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../uesgraphs/.idea/uesgraphs.iml" filepath="$PROJECT_DIR$/../uesgraphs/.idea/uesgraphs.iml" />
+    </modules>
+  </component>
+</project>

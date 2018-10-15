@@ -1,0 +1,1 @@
+The optimization models in the subfolders are designed specifially for the Scenario generated in Thesis/Scenarios/Infrastructure.py

@@ -1,0 +1,16 @@
+Optimization models for without vs with interface activity tests
+
+i.e. 
+
+SingleDomainOptimizationModel_E: 
+Only single domain electricity devices are active. CHP, HP, P2G schedules are not operating. 
+
+SingleDomainOptimizationModel_G: 
+Only single domain gas (heating) devices are active. CHP, P2G schedules are not operating. 
+
+SingleDomainOptimizationModel_W
+Only single domain water devices are active. HEs are not operating.
+
+OptimizationModel_EGTW
+Interface devices e.g. CHP, HP, HE, P2G are active. 
+ 

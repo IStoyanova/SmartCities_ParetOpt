@@ -1,0 +1,47 @@
+
+Gurobi 7.0.2 (win64, Python) logging started 06/07/17 16:14:27
+
+Optimize a model with 2884 rows, 4036 columns and 7370 nonzeros
+Coefficient statistics:
+  Matrix range     [6e-02, 2e+05]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [2e-01, 1e+00]
+  RHS range        [5e-01, 9e+03]
+Presolve removed 2057 rows and 2382 columns
+Presolve time: 0.01s
+Presolved: 827 rows, 1654 columns, 2750 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    1.2361265e+06   5.594404e+00   0.000000e+00      0s
+      77    1.2361265e+06   0.000000e+00   0.000000e+00      0s
+
+Solved in 77 iterations and 0.01 seconds
+Optimal objective  1.236126458e+06
+Optimize a model with 2112 rows, 2112 columns and 4032 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+08]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e-05, 1e-04]
+Presolve removed 2112 rows and 2112 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    1.0109818e-09   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.00 seconds
+Optimal objective  1.010981812e-09
+Optimize a model with 4032 rows, 4032 columns and 7872 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+08]
+  Objective range  [1e+08, 1e+08]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [2e+04, 1e+05]
+Presolve removed 4032 rows and 4032 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    1.2916616e+08   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.01 seconds
+Optimal objective  1.291661551e+08

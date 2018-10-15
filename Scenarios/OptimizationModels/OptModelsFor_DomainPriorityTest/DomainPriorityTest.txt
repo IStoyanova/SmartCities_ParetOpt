@@ -1,0 +1,16 @@
+Two-step vs One-step Cross-Domain Optimization
+
+i.e.
+
+OptimizationModel_EGTW (One-Step Cross-Domain Optimization)
+Domains are optimizied simultaneously
+
+OptimizationModel_EG (Electricity Prior Two-Step Cross-Domain Optimization)
+Electricity domain is optimized first
+Schedules of ele-gas interface devices will be chosen acc. to electricity domain targets
+
+OptimizationModel_GE (Gas Prior Two-step Cross-Domain Optimization)
+Electricity domain is optimized first
+Schedules of ele-gas interface devices will be chosen acc. to electricity domain targets
+
+
